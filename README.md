@@ -13,10 +13,11 @@ Each pair will take the assigned **theme** , find a real-world dataset, **draw a
 ---
 
 ## 📅 Deadlines
-- **Topic and Flowchart Submission (to Instructor):** Sunday, **October 16, 2026, until 5:00 PM**
+- **Topic (to Instructor):** Friday, **October 16, 2026, until 5:00 PM**
   - Submit pair name, dataset (title + source), your flowchart, planned 10 visualizations, and preprocessing steps (at least 3).
 
 - **Final Submission (GitHub):** Monday, **October 26, 2026, until 11:59 PM**.
+- **Presentation (GitHub):** Tuesday, **October 27, 2026**.
 
 ---
 
