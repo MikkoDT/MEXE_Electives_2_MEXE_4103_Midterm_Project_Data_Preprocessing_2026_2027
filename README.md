@@ -38,7 +38,7 @@ MEXE_E2_Midterm/
 ├── Pair1Surname_Pair2Surname_Topic/
 │   └── ...
 
-
+```
 ---
 
 ## 📝 Student Instructions
