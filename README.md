@@ -37,9 +37,7 @@ MEXE_E2_Midterm/
 │
 ├── Pair1Surname_Pair2Surname_Topic/
 │   └── ...
-│
-└── presentation/ (optional slides or PDFs per group)
-```
+
 
 ---
 
